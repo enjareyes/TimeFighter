@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">Time Fighter</string>
+    <string name="app_name">TFighter</string>
     <string name="yourScore">Total Score: %1$d</string>
     <string name="timeLeft">Time Left: %1$d</string>
     <string name="tapMeBtn">Tap! Tap! Tap!</string>
     <string name="gameOverMessage">Game Over! Your score: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="aboutMessage">Created by SuperDev Enja!</string>
 </resources>
